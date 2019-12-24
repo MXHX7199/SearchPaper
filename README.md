@@ -19,7 +19,7 @@ The articles related to quantization
 (CVPR 2019) [Fully Quantized Network for Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fully_Quantized_Network_for_Object_Detection_CVPR_2019_paper.pdf)
 
 
-(CVPR 2019) [HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf) Song Han
+(CVPR 2019) [HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf) *Song Han*
 
 
 (CVPR 2019) [Simultaneously Optimizing Weight and Quantizer of Ternary Neural Networkusing Truncated Gaussian Approximation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Simultaneously_Optimizing_Weight_and_Quantizer_of_Ternary_Neural_Network_Using_CVPR_2019_paper.pdf)
@@ -50,7 +50,7 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 
 (ICLR 2019) [Analysis of Quantized Models](https://openreview.net/pdf?id=ryM_IoAqYX)
 
-(ICLR 2019) [Defensive Quantization: When Efficiency Meets Robustness](https://openreview.net/pdf?id=ryetZ20ctX) Song Han
+(ICLR 2019) [Defensive Quantization: When Efficiency Meets Robustness](https://openreview.net/pdf?id=ryetZ20ctX) *Song Han*
 
 
 ##[NIPS](http://papers.nips.cc/)
@@ -79,7 +79,7 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 (AAAI 2019) [Deep Neural Network Quantization via Layer-Wise Optimization Using Limited Training Data](https://aaai.org/ojs/index.php/AAAI/article/view/4206)
 
 ## [IJCAI](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2019.html)
-(IJCAI 2019) [KCNN: Kernel-wise Quantization to Remarkably Decrease Multiplications in Convolutional Neural Network] (https://www.ijcai.org/proceedings/2019/128)
+(IJCAI 2019) [KCNN: Kernel-wise Quantization to Remarkably Decrease Multiplications in Convolutional Neural Network](https://www.ijcai.org/proceedings/2019/128)
 
 (IJCAI 2019) [Binarized Neural Networks for Resource-Efficient Hashing with Minimizing Quantization Loss](https://www.ijcai.org/proceedings/2019/145)
 
