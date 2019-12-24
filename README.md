@@ -3,11 +3,12 @@ The articles related to quantization
 
 ## CVF [Computer Vision Foundation open access](http://openaccess.thecvf.com/menu.py)
 
+(ICCV 2019) 
 [HAWQ: Hessian AWare Quantization of Neural Networks With Mixed-Precision](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_HAWQ_Hessian_AWare_Quantization_of_Neural_Networks_With_Mixed-Precision_ICCV_2019_paper.pdf）
 
-(ICCV 2019) [Unsupervised Neural Quantization for Compressed-Domain Similarity Search] (http://openaccess.thecvf.com/content_ICCV_2019/papers/Morozov_Unsupervised_Neural_Quantization_for_Compressed-Domain_Similarity_Search_ICCV_2019_paper.pdf）
+(ICCV 2019) [Unsupervised Neural Quantization for Compressed-Domain Similarity Search](http://openaccess.thecvf.com/content_ICCV_2019/papers/Morozov_Unsupervised_Neural_Quantization_for_Compressed-Domain_Similarity_Search_ICCV_2019_paper.pdf）
 
-(ICCV 2019) [Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks] (http://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Differentiable_Soft_Quantization_Bridging_Full-Precision_and_Low-Bit_Neural_Networks_ICCV_2019_paper.pdf）
+(ICCV 2019) [Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Differentiable_Soft_Quantization_Bridging_Full-Precision_and_Low-Bit_Neural_Networks_ICCV_2019_paper.pdf）
 
 (ICCV 2019) [Learning Filter Basis for Convolutional Neural Network Compression] (http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Learning_Filter_Basis_for_Convolutional_Neural_Network_Compression_ICCV_2019_paper.pdf）
 
