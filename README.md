@@ -1,6 +1,6 @@
 # QuantPaper
 The articles related to quantization
-
+[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
 ## CVF [Computer Vision Foundation open access](http://openaccess.thecvf.com/menu.py)
 
 (ICCV 2019) [HAWQ: Hessian AWare Quantization of Neural Networks With Mixed-Precision](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_HAWQ_Hessian_AWare_Quantization_of_Neural_Networks_With_Mixed-Precision_ICCV_2019_paper.pdf）
