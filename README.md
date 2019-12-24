@@ -27,6 +27,8 @@ The articles related to quantization
 
 (CVPR 2019) [SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsitythrough Low-Bit Quantization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_SeerNet_Predicting_Convolutional_Neural_Network_Feature-Map_Sparsity_Through_Low-Bit_Quantization_CVPR_2019_paper.pdf)
 
+(CVPR 2018) [Quantization and Training of Neural Networks for EfficientInteger-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)  *Google*
+
 (ECCV 2018) [Quantization Mimic: Towards Very Tiny CNNfor Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Wei_Quantization_Mimic_Towards_ECCV_2018_paper.pdf)
 
 (ECCV 2018) [LQ-Nets: Learned Quantization for HighlyAccurate and Compact Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dongqing_Zhang_Optimized_Quantization_for_ECCV_2018_paper.pdf)
@@ -52,6 +54,7 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 
 (ICLR 2019) [Defensive Quantization: When Efficiency Meets Robustness](https://openreview.net/pdf?id=ryetZ20ctX) *Song Han*
 
+(ICLR 2018) [Mixed Precision Training of Convolutional Neural Networks using Integer Operations](https://openreview.net/pdf?id=H135uzZ0-)  *Intel*
 
 ##[NIPS](http://papers.nips.cc/)
 
@@ -84,3 +87,4 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 (IJCAI 2019) [Binarized Neural Networks for Resource-Efficient Hashing with Minimizing Quantization Loss](https://www.ijcai.org/proceedings/2019/145)
 
 (IJCAI 2019) [ KCNN: Kernel-wise Quantization to Remarkably Decrease Multiplications in Convolutional Neural Network](https://www.ijcai.org/proceedings/2019/588)
+
