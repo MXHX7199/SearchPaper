@@ -74,7 +74,7 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 ## [ICML](http://proceedings.mlr.press/v97/)
 (ICML 2019) [Improving Neural Network Quantization without Retraining using Outlier Channel Splitting](http://proceedings.mlr.press/v97/zhao19c/zhao19c.pdf)
 
-## [AAAI] (https://dblp.uni-trier.de/db/conf/aaai/aaai2019.html)
+## [AAAI](https://dblp.uni-trier.de/db/conf/aaai/aaai2019.html)
 (AAAI 2019) [Multi‐Precision  Quantized  Neural  Networks  via  Encoding  Decomposition  of  {-1,+1}](https://aaai.org/ojs/index.php/AAAI/article/view/4434)
 
 (AAAI 2019) [Efficient  Quantization  for  Compact  Neural  Networks  with  Binary  Weights  and  Low  Bitwidth  Activations](https://aaai.org/ojs/index.php/AAAI/article/view/4273)
