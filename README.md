@@ -56,7 +56,7 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 
 (ICLR 2018) [Mixed Precision Training of Convolutional Neural Networks using Integer Operations](https://openreview.net/pdf?id=H135uzZ0-)  *Intel*
 
-##[NIPS](http://papers.nips.cc/)
+## [NIPS](http://papers.nips.cc/)
 
 (NIPS 2019) [Focused Quantization for Sparse CNNs](http://papers.nips.cc/paper/8796-focused-quantization-for-sparse-cnns.pdf)
 
