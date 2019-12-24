@@ -3,7 +3,7 @@ The articles related to quantization
 
 ## CVF [Computer Vision Foundation open access](http://openaccess.thecvf.com/menu.py)
 
-(ICCV 2019) [HAWQ: Hessian AWare Quantization of Neural Networks With Mixed-Precision](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_HAWQ_Hessian_AWare_Quantization_of_Neural_Networks_With_Mixed-Precision_ICCV_2019_paper.pdf)
+(ICCV 2019) [HAWQ: Hessian AWare Quantization of Neural Networks With Mixed-Precision](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_HAWQ_Hessian_AWare_Quantization_of_Neural_Networks_With_Mixed-Precision_ICCV_2019_paper.pdf) * [x]
 
 (ICCV 2019) [Unsupervised Neural Quantization for Compressed-Domain Similarity Search](http://openaccess.thecvf.com/content_ICCV_2019/papers/Morozov_Unsupervised_Neural_Quantization_for_Compressed-Domain_Similarity_Search_ICCV_2019_paper.pdf)
 
@@ -19,7 +19,7 @@ The articles related to quantization
 (CVPR 2019) [Fully Quantized Network for Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fully_Quantized_Network_for_Object_Detection_CVPR_2019_paper.pdf)
 
 
-(CVPR 2019) [HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf) *Song Han*
+(CVPR 2019) [HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf) *Song Han* * [x]
 
 
 (CVPR 2019) [Simultaneously Optimizing Weight and Quantizer of Ternary Neural Networkusing Truncated Gaussian Approximation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Simultaneously_Optimizing_Weight_and_Quantizer_of_Ternary_Neural_Network_Using_CVPR_2019_paper.pdf)
@@ -27,11 +27,11 @@ The articles related to quantization
 
 (CVPR 2019) [SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsitythrough Low-Bit Quantization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_SeerNet_Predicting_Convolutional_Neural_Network_Feature-Map_Sparsity_Through_Low-Bit_Quantization_CVPR_2019_paper.pdf)
 
-(CVPR 2018) [Quantization and Training of Neural Networks for EfficientInteger-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)  *Google*
+(CVPR 2018) [Quantization and Training of Neural Networks for EfficientInteger-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)  *Google* * [x]
 
 (ECCV 2018) [Quantization Mimic: Towards Very Tiny CNNfor Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Wei_Quantization_Mimic_Towards_ECCV_2018_paper.pdf)
 
-(ECCV 2018) [LQ-Nets: Learned Quantization for HighlyAccurate and Compact Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dongqing_Zhang_Optimized_Quantization_for_ECCV_2018_paper.pdf)
+(ECCV 2018) [LQ-Nets: Learned Quantization for HighlyAccurate and Compact Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dongqing_Zhang_Optimized_Quantization_for_ECCV_2018_paper.pdf) * [x]
 
 (ECCV 2018) [Value-aware Quantizationfor Training and Inference of Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Eunhyeok_Park_Value-aware_Quantization_for_ECCV_2018_paper.pdf)
 
@@ -42,7 +42,7 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 
 (ICLR 2019) [Relaxed Quantization for Discretized Neural Networks](https://openreview.net/pdf?id=HkxjYoCqKX)
 
-(ICLR 2019) [ProxQuant: Quantized Neural Networks via Proximal Operators](https://openreview.net/pdf?id=HyzMyhCcK7)
+(ICLR 2019) [ProxQuant: Quantized Neural Networks via Proximal Operators](https://openreview.net/pdf?id=HyzMyhCcK7) * [x]
 
 (ICLR 2019) [Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets](https://openreview.net/pdf?id=Skh4jRcKQ)
 
@@ -54,7 +54,7 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 
 (ICLR 2019) [Defensive Quantization: When Efficiency Meets Robustness](https://openreview.net/pdf?id=ryetZ20ctX) *Song Han*
 
-(ICLR 2018) [Mixed Precision Training of Convolutional Neural Networks using Integer Operations](https://openreview.net/pdf?id=H135uzZ0-)  *Intel*
+(ICLR 2018) [Mixed Precision Training of Convolutional Neural Networks using Integer Operations](https://openreview.net/pdf?id=H135uzZ0-)  *Intel* * [x]
 
 ## [NIPS](http://papers.nips.cc/)
 
@@ -66,7 +66,7 @@ NIPS, ICLR, etc. [LINK](https://openreview.net/)
 
 (NIPS 2019) [Generalization Error Analysis of Quantized Compressive Learning](http://papers.nips.cc/paper/9651-generalization-error-analysis-of-quantized-compressive-learning.pdf)
 
-(NIPS 2019) [Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization](http://papers.nips.cc/paper/8971-latent-weights-do-not-exist-rethinking-binarized-neural-network-optimization.pdf)
+(NIPS 2019) [Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization](http://papers.nips.cc/paper/8971-latent-weights-do-not-exist-rethinking-binarized-neural-network-optimization.pdf) * [x]
 
 (NIPS 2019) [Double Quantization for Communication-Efficient Distributed Optimization](http://papers.nips.cc/paper/8694-double-quantization-for-communication-efficient-distributed-optimization.pdf)
 
