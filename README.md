@@ -1,5 +1,20 @@
 # QuantPaper
 The articles related to quantization
+## Basic Network
+(AlexNet) [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) 
+
+(VGG) [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) [homepage](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
+
+(GoogLeNet) [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf)
+
+(ResNet) [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385) [slides](http://kaiminghe.com/cvpr16resnet/cvpr2016_deep_residual_learning_kaiminghe.pdf)
+
+(ShuffleNet) [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
+
+(MobileNet V1) [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf) 
+
+(MobileNet V2) [MobileNetV2: Inverted Residuals and Linear Bottlenecks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf)
+
 
 ## CVF [Computer Vision Foundation open access](http://openaccess.thecvf.com/menu.py)
 
