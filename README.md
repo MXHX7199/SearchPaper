@@ -1,3 +1,47 @@
+# PIM
+The articles related to PIM
+## ReRAM
+### Simulator
+(TCAD 2012) [NVSim: A Circuit-Level Performance, Energy, and Area Model for Emerging Nonvolatile Memory](https://seal.ece.ucsb.edu/sites/default/files/publications/2012-NVsim-TCAD.pdf)
+
+(DATE 2016) [MNSIM: Simulation platform for memristor-based neuromorphic computing system](https://seal.ece.ucsb.edu/sites/default/files/publications/07459356.pdf)
+
+(TCAD 2018) [NeuroSim: A circuit-level macro model for benchmarking neuro-inspired architectures in online learning](https://asu.pure.elsevier.com/en/publications/neurosim-a-circuit-level-macro-model-for-benchmarking-neuro-inspi)
+
+### Paper
+(ISCA 2016) [ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7551379)
+
+(ISCA 2016) [PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory](https://seal.ece.ucsb.edu/sites/default/files/publications/prime_isca_2016.pdf)
+
+(HPCA 2017) [PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7920854)
+
+(DAC 2018) [SNrram: An Efficient Sparse Neural Network Computation Architecture Based on Resistive Random-Access Memory](https://seal.ece.ucsb.edu/sites/default/files/publications/a106-wang_0.pdf)
+
+(ICCAD 2018) [DL-RSIM: A simulation framework to enable reliable ReRAM-based accelerators for deep learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587661)
+
+(ASPDAC 2019) [Learning the sparsity for ReRAM: mapping and pruning sparse neural network for ReRAM based accelerator](https://seal.ece.ucsb.edu/sites/default/files/publications/p639-lin.pdf)
+
+(ASPDAC 2019) [CompRRAE: RRAM-based convolutional neural network accelerator with reduced computations through a runtime activation estimation](https://dl.acm.org/doi/10.1145/3287624.3287640)
+
+(VLSI 2019) [SubMac: Exploiting the subword-based computation in RRAM-based CNN accelerator for energy saving and speedup](https://www.sciencedirect.com/science/article/pii/S0167926019301786)
+
+(Yiran Chen'2019) [ReBNN: in-situ acceleration of binarized neural networks in ReRAM using complementary resistive cell](https://link.springer.com/content/pdf/10.1007/s42514-019-00014-8.pdf)
+
+(ISCA 2019) [Sparse ReRAM engine: joint exploration of activation and weight sparsity in compressed neural networks](https://dl.acm.org/doi/pdf/10.1145/3307650.3322271)
+
+(TCAD 2020) [SemiMap: A Semi-Folded Convolution Mapping for Speed-Overhead Balance on Crossbars](https://seal.ece.ucsb.edu/sites/default/files/publications/tcad-2019-lei.pdf)
+
+(Nature 2020) [Fully hardware-implemented memristor convolutional neural network](https://www.nature.com/articles/s41586-020-1942-4.pdf)
+
+(ISCA 2020) [GaaS-X: Graph Analytics Accelerator Supporting Sparse Data Representation using Crossbar Architectures](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a433/466100a433.pdf)
+
+(TCAD 2020) [Long Live TIME: Improving Lifetime and Security for NVM-Based Training-in-Memory Systems](https://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/IEEE%20TCAD_302_yrurbfj.pdf)
+
+## SRAM
+(ISCA 2018) [Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1109/ISCA.2018.00040)
+
+(HPCA 2019) [Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8675204)
+*** 
 # QuantPaper
 The articles related to quantization
 ## Basic Network
