@@ -1,91 +1,51 @@
 # DeepHash
 The articles related to DeepHash
 ## Single-Modal Deep Hashing Methods
-(AAAI 2014) Supervised Hashing via Image Representation Learning 
+(AAAI 2014) Supervised Hashing via Image Representation Learning [paper](http://ss.sysu.edu.cn/%7Epy/papers/AAAI-CNNH.pdf) [code](http://ss.sysu.edu.cn/%7Epy/CNNH/cnnh.html)
 
-[paper](http://ss.sysu.edu.cn/%7Epy/papers/AAAI-CNNH.pdf) [code](http://ss.sysu.edu.cn/%7Epy/CNNH/cnnh.html)
+(CVPR 2015) Simultaneous Feature Learning and Hash Coding with Deep Neural Networks [paper](http://arxiv.org/pdf/1504.03410v1.pdf)
 
-(CVPR 2015) Simultaneous Feature Learning and Hash Coding with Deep Neural Networks 
-
-[paper](http://arxiv.org/pdf/1504.03410v1.pdf)
-
-(TIP 2015) Bit-Scalable Deep Hashing With Regularized Similarity Learning for Image Retrieval and Person Re-Identification
-
-[paper](http://arxiv.org/pdf/1508.04535v2.pdf) [code](https://github.com/ruixuejianfei/BitScalableDeepHash)
+(TIP 2015) Bit-Scalable Deep Hashing With Regularized Similarity Learning for Image Retrieval and Person Re-Identification [paper](http://arxiv.org/pdf/1508.04535v2.pdf) [code](https://github.com/ruixuejianfei/BitScalableDeepHash)
 
 
 
-(IJCAI 2015) Convolutional Neural Networks for Text Hashing 
-
-[paper](http://ijcai.org/papers15/Papers/IJCAI15-197.pdf)
+(IJCAI 2015) Convolutional Neural Networks for Text Hashing  [paper](http://ijcai.org/papers15/Papers/IJCAI15-197.pdf)
 
 
 
-(CVPR 2015) Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval 
-
-[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Deep_Semantic_Ranking_2015_CVPR_paper.pdf) [code](https://github.com/zhaofang0627/cuda-convnet-for-hashing)
+(CVPR 2015) Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Deep_Semantic_Ranking_2015_CVPR_paper.pdf) [code](https://github.com/zhaofang0627/cuda-convnet-for-hashing)
 
 
 
-(AAAI 2015) Deep Hashing for Compact Binary Codes Learning 
-
-[paper](http://ieeexplore.ieee.org/document/7298862/)
+(AAAI 2015) Deep Hashing for Compact Binary Codes Learning [paper](http://ieeexplore.ieee.org/document/7298862/)
 
 
 
-(CVPRW 2015) Deep Learning of Binary Hash Codes for Fast Image Retrieval
+(CVPR 2015) Deep Learning of Binary Hash Codes for Fast Image Retrieval [paper](http://www.iis.sinica.edu.tw/%7Ekevinlin311.tw/cvprw15.pdf) [code](https://github.com/kevinlin311tw/caffe-cvprw15)
 
-[paper](http://www.iis.sinica.edu.tw/%7Ekevinlin311.tw/cvprw15.pdf) 
+(IJCAI 2016) Feature Learning based Deep Supervised Hashing with Pairwise Labels [paper](http://cs.nju.edu.cn/lwj/paper/IJCAI16_DPSH.pdf) [code](http://cs.nju.edu.cn/lwj/code/DPSH.zip)
 
-[code](https://github.com/kevinlin311tw/caffe-cvprw15)
+(AAAI 2016) Deep Hashing Network for Efficient Similarity Retrieval [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-hashing-network-aaai16.pdf) [code](https://github.com/thuml/hash-caffe)
 
-(IJCAI 2016) Feature Learning based Deep Supervised Hashing with Pairwise Labels 
+(AAAI 2016) Deep Quantization Network for Efficient Image Retrieval [paper](http://yue-cao.me/doc/deep-quantization-networks-dqn-aaai16.pdf) [code](https://github.com/caoyue10/cvpr17-dvsq/tree/aaai16-dqn)
 
-[paper](http://cs.nju.edu.cn/lwj/paper/IJCAI16_DPSH.pdf) [code](http://cs.nju.edu.cn/lwj/code/DPSH.zip)
+(CVPR 2016) Deep Supervised Hashing for Fast Image Retrieval [paper](http://ieeexplore.ieee.org/document/7780596/) [code](https://github.com/lhmRyan/deep-supervised-hashing-DSH)
 
-(AAAI 2016) Deep Hashing Network for Efficient Similarity Retrieval 
+(SIGIR 2017) Deep Semantic Hashing with Generative Adversarial Networks [paper](http://zhaofanqiu.deepfun.club/papers/SIGIR17HASH.pdf)
 
-[paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-hashing-network-aaai16.pdf) [code](https://github.com/thuml/hash-caffe)
+(CVPR 2017) Deep Visual-Semantic Quantization for Efficient Image Retrieval [paper](http://yue-cao.me/doc/deep-visual-semantic-quantization-cvpr17.pdf) [code](https://github.com/caoyue10/cvpr17-dvsq)
 
-(AAAI 2016) Deep Quantization Network for Efficient Image Retrieval 
+(ICCV 2017) HashNet: Deep Learning to Hash by Continuation [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashnet-iccv17.pdf) [code](https://github.com/thuml/HashNet)
 
-[paper](http://yue-cao.me/doc/deep-quantization-networks-dqn-aaai16.pdf) [code](https://github.com/caoyue10/cvpr17-dvsq/tree/aaai16-dqn)
+(CVPR 2018) HashGAN: Deep Learning to Hash with Pair Conditional Wasserstein GAN [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashgan-cvpr18.pdf)
 
-(CVPR 2016) Deep Supervised Hashing for Fast Image Retrieval 
+(CVPR 2018) Deep Cauchy Hashing for Hamming Space Retrieval [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-cauchy-hashing-cvpr18.pdf) [code](https://github.com/thulab/DeepHash)
 
-[paper](http://ieeexplore.ieee.org/document/7780596/) [code](https://github.com/lhmRyan/deep-supervised-hashing-DSH)
+(CVPR 2018) Hashing as Tie-Aware Learning to Rank [paper](http://openaccess.thecvf.com/content_cvpr_2018/html/He_Hashing_as_Tie-Aware_CVPR_2018_paper.html) [code](https://github.com/kunhe/TALR)
 
-(SIGIR 2017) Deep Semantic Hashing with Generative Adversarial Networks 
+(ECCV 2018) Hashing with Binary Matrix Pursuit [paper](https://arxiv.org/abs/1808.01990) [code](https://github.com/fcakir/hbmp)
 
-[paper](http://zhaofanqiu.deepfun.club/papers/SIGIR17HASH.pdf)
-
-(CVPR 2017) Deep Visual-Semantic Quantization for Efficient Image Retrieval 
-
-[paper](http://yue-cao.me/doc/deep-visual-semantic-quantization-cvpr17.pdf) [code](https://github.com/caoyue10/cvpr17-dvsq)
-
-(ICCV 2017) HashNet: Deep Learning to Hash by Continuation 
-
-[paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashnet-iccv17.pdf) [code](https://github.com/thuml/HashNet)
-
-(CVPR 2018) HashGAN: Deep Learning to Hash with Pair Conditional Wasserstein GAN 
-
-[paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashgan-cvpr18.pdf)
-
-(CVPR 2018) Deep Cauchy Hashing for Hamming Space Retrieval 
-
-[paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-cauchy-hashing-cvpr18.pdf) [code](https://github.com/thulab/DeepHash)
-
-(CVPR 2018) Hashing as Tie-Aware Learning to Rank 
-
-[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/He_Hashing_as_Tie-Aware_CVPR_2018_paper.html) [code](https://github.com/kunhe/TALR)
-
-(ECCV 2018) Hashing with Binary Matrix Pursuit 
-
-[paper](https://arxiv.org/abs/1808.01990) [code](https://github.com/fcakir/hbmp)
-
-(TPAMI 2019) Hashing with Mutual Information 
-
-[paper](http://arxiv.org/abs/1803.00974) [code](https://github.com/fcakir/deep-mihash/)
+(TPAMI 2019) Hashing with Mutual Information [paper](http://arxiv.org/abs/1803.00974) [code](https://github.com/fcakir/deep-mihash/)
     
 # PIM
 The articles related to PIM
