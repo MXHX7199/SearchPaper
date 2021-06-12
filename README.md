@@ -1,3 +1,45 @@
+# DeepHash
+The articles related to DeepHash
+## Single-Modal Deep Hashing Methods
+(AAAI 2014) Supervised Hashing via Image Representation Learning [paper](http://ss.sysu.edu.cn/%7Epy/papers/AAAI-CNNH.pdf) [code](http://ss.sysu.edu.cn/%7Epy/CNNH/cnnh.html)
+    Rongkai Xia , Yan Pan, Hanjiang Lai, Cong Liu, Shuicheng Yan.
+(CVPR 2015) Simultaneous Feature Learning and Hash Coding with Deep Neural Networks [paper](http://arxiv.org/pdf/1504.03410v1.pdf)
+    Hanjiang Lai, Yan Pan, Ye Liu, Shuicheng Yan.
+(TIP 2015) Bit-Scalable Deep Hashing With Regularized Similarity Learning for Image Retrieval and Person Re-Identification [paper](http://arxiv.org/pdf/1508.04535v2.pdf) [code](https://github.com/ruixuejianfei/BitScalableDeepHash)
+    Ruimao Zhang, Liang Lin, Rui Zhang, Wangmeng Zuo, Lei Zhang.
+(IJCAI 2015) Convolutional Neural Networks for Text Hashing [paper](http://ijcai.org/papers15/Papers/IJCAI15-197.pdf)
+    Jiaming Xu, PengWang, Guanhua Tian, Bo Xu, Jun Zhao, Fangyuan Wang, Hongwei Hao.
+(CVPR 2015) Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Deep_Semantic_Ranking_2015_CVPR_paper.pdf) [code](https://github.com/zhaofang0627/cuda-convnet-for-hashing)
+    Fang Zhao, Yongzhen Huang, Liang Wang, Tieniu Tan.
+(AAAI 2015) Deep Hashing for Compact Binary Codes Learning [paper](http://ieeexplore.ieee.org/document/7298862/)
+    Venice Erin Liong, Jiwen Lu, Gang Wang, Pierre Moulin, Jie Zhou.
+(CVPRW 2015) Deep Learning of Binary Hash Codes for Fast Image Retrieval [paper](http://www.iis.sinica.edu.tw/%7Ekevinlin311.tw/cvprw15.pdf) [code](https://github.com/kevinlin311tw/caffe-cvprw15)
+    Kevin Lin, Huei-Fang Yang, Jen-Hao Hsiao, Chu-Song Chen.
+(IJCAI 2016) Feature Learning based Deep Supervised Hashing with Pairwise Labels [paper](http://cs.nju.edu.cn/lwj/paper/IJCAI16_DPSH.pdf) [code](http://cs.nju.edu.cn/lwj/code/DPSH.zip)
+    Wu-Jun Li, Sheng Wang, Wang-Cheng Kang.
+(AAAI 2016) Deep Hashing Network for Efficient Similarity Retrieval [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-hashing-network-aaai16.pdf) [code](https://github.com/thuml/hash-caffe)
+    Han Zhu, Mingsheng Long, Jiamin Wang, Yue Cao.
+(AAAI 2016) Deep Quantization Network for Efficient Image Retrieval [paper](http://yue-cao.me/doc/deep-quantization-networks-dqn-aaai16.pdf) [code](https://github.com/caoyue10/cvpr17-dvsq/tree/aaai16-dqn)
+    Yue Cao, Mingsheng Long, Jiamin Wang, Han Zhu, Qingfu Wen.
+(CVPR 2016) Deep Supervised Hashing for Fast Image Retrieval [paper](http://ieeexplore.ieee.org/document/7780596/) [code](https://github.com/lhmRyan/deep-supervised-hashing-DSH)
+    Haomiao Liu, Ruiping Wang, Shiguang Shan, Xilin Chen.
+(SIGIR 2017) Deep Semantic Hashing with Generative Adversarial Networks [paper](http://zhaofanqiu.deepfun.club/papers/SIGIR17HASH.pdf)
+    Zhaofan Qiu, Yingwei Pan, Ting Yao, Tao Mei.
+(CVPR 2017) Deep Visual-Semantic Quantization for Efficient Image Retrieval [paper](http://yue-cao.me/doc/deep-visual-semantic-quantization-cvpr17.pdf) [code](https://github.com/caoyue10/cvpr17-dvsq)
+    Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu.
+(ICCV 2017) HashNet: Deep Learning to Hash by Continuation [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashnet-iccv17.pdf) [code](https://github.com/thuml/HashNet)
+    Zhangjie Cao, Mingsheng Long, Jianmin Wang, Philip S. Yu.
+(CVPR 2018) HashGAN: Deep Learning to Hash with Pair Conditional Wasserstein GAN [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/hashgan-cvpr18.pdf)
+    Yue Cao, Mingsheng Long, Bin Liu, Jiamin Wang.
+(CVPR 2018) Deep Cauchy Hashing for Hamming Space Retrieval [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-cauchy-hashing-cvpr18.pdf) [code](https://github.com/thulab/DeepHash)
+    Yue Cao, Mingsheng Long, Bin Liu, Jianmin Wang.
+(CVPR 2018) Hashing as Tie-Aware Learning to Rank [paper](http://openaccess.thecvf.com/content_cvpr_2018/html/He_Hashing_as_Tie-Aware_CVPR_2018_paper.html) [code](https://github.com/kunhe/TALR)
+    Kun He, Fatih Cakir, Sarah Adel Bargal, Stan Sclaroff. 
+(ECCV 2018) Hashing with Binary Matrix Pursuit [paper](https://arxiv.org/abs/1808.01990) [code](https://github.com/fcakir/hbmp)
+    Fatih Cakir, Kun He, Stan Sclaroff. 
+(TPAMI 2019) Hashing with Mutual Information [paper](http://arxiv.org/abs/1803.00974) [code](https://github.com/fcakir/deep-mihash/)
+    Fatih Cakir*, Kun He*, Sarah Adel Bargal, Stan Sclaroff (equal contrib.). 
+    
 # PIM
 The articles related to PIM
 ## ReRAM
